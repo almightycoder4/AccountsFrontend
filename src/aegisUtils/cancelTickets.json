@@ -1,0 +1,10 @@
+[{"id":1,"policy_id":"#f4753a","expiry_date":"1/20/2023","reason":3,"request_date":"8/29/2022","refund":206,"status":1,"premium":10565},
+{"id":2,"policy_id":"#0b1f63","expiry_date":"8/17/2023","reason":1,"request_date":"5/26/2023","refund":142,"status":3,"premium":11917},
+{"id":3,"policy_id":"#ce70c9","expiry_date":"4/30/2023","reason":4,"request_date":"11/8/2022","refund":490,"status":1,"premium":13593},
+{"id":4,"policy_id":"#740ea8","expiry_date":"7/23/2023","reason":2,"request_date":"9/24/2022","refund":263,"status":2,"premium":11373},
+{"id":5,"policy_id":"#34975b","expiry_date":"6/17/2023","reason":3,"request_date":"6/17/2023","refund":494,"status":3,"premium":11102},
+{"id":6,"policy_id":"#a31725","expiry_date":"12/21/2022","reason":3,"request_date":"6/1/2023","refund":519,"status":3,"premium":13194},
+{"id":7,"policy_id":"#4e270e","expiry_date":"3/1/2023","reason":2,"request_date":"8/5/2022","refund":228,"status":1,"premium":10532},
+{"id":8,"policy_id":"#22b449","expiry_date":"1/1/2023","reason":2,"request_date":"2/13/2023","refund":230,"status":3,"premium":11689},
+{"id":9,"policy_id":"#cbd845","expiry_date":"12/1/2022","reason":2,"request_date":"10/31/2022","refund":275,"status":3,"premium":12832},
+{"id":10,"policy_id":"#28cda4","expiry_date":"4/27/2023","reason":3,"request_date":"6/15/2023","refund":435,"status":2,"premium":13340}]
